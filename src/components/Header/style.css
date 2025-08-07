@@ -1,0 +1,58 @@
+
+header {
+  width: 98%;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgb(245, 184, 184);
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar1 {
+    display: flex;
+    font-weight: 500;
+}
+
+.navbar1 h3 {
+    color: #3EDEA9;
+    font-size: 25px;
+    margin-top: 12px;
+}
+
+.headerLista {
+    margin-top: 20px;
+    display: flex;
+    gap: 18px;
+}
+
+.headerLista li {
+    list-style: none;   
+}
+
+.headerLista li a {
+    text-decoration: none;
+    color: rgb(141, 138, 134);
+}
+
+.navbar2 {
+    margin-top: 20px;
+    margin-right: 25px;
+    gap: 18px;
+    display: flex;
+    font-weight: 500;
+}
+
+.navbar2 a {
+    text-decoration: none;    
+    color: rgb(141, 138, 134);
+}
+
+.navbar2 a:nth-child(1) {
+    color: #3EDEA9;
+}
+
+.dropdown::after {
+    content: "▼";
+    font-size: 0.6rem;
+    margin-left: 4px;
+}
