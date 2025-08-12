@@ -3,7 +3,7 @@
   margin-top: 30px;
   padding: 40px;
   justify-content: space-between;
-  margin-left: 250px;
+  margin-left: 130px;
   margin-right: 250px;
 }
 
@@ -14,12 +14,12 @@
 }
 
 .imgPrincipal img {
-  height: 100px;
+  height: 110px;
 }
 
 .card {
   background: #eceaea;
-  width: 350px;
+  width: 400px;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1),
