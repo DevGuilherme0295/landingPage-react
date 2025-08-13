@@ -1,4 +1,5 @@
 import RoundCards from "./coponents/roundCards";
+import Description from "./coponents/description";
 import "./style.css";
 
 function Main() {
@@ -37,9 +38,8 @@ function Main() {
           </button>
         </div>
       </div>
-      <div>
+        <Description />
         
-      </div>
     </main>
   );
 }

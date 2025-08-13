@@ -1,0 +1,30 @@
+.description {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #727272;
+}
+
+.descIcone {
+    justify-content: center;
+
+}
+.descIcone p {
+    color: #727272;
+}
+.descIcone h4 {
+    display: flex;
+    justify-content: center;
+    color: #525151;
+}
+
+.descIcone img {
+    height: 45px;
+    width: 45px;
+    margin-left: 123px;
+}

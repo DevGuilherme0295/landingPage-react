@@ -5,8 +5,11 @@
 }
 
 .roundCards {
+    display: flex;
+    align-items: center;
     border-radius: 50%;
-    border: 1px solid #3EDEA9;
+    border: 3px solid #3EDEA9;
     width: 75px;
-    height: 75px;   
+    height: 75px;
+    overflow: hidden;  
 }

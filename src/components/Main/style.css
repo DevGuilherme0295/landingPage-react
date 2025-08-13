@@ -3,8 +3,6 @@
   margin-top: 30px;
   padding: 40px;
   justify-content: space-between;
-  /* margin-left: 130px; */
-  /* margin-right: 250px; */
   width: 90%;
 }
 
@@ -69,3 +67,7 @@
   color: #555;
   margin-top: 5px;
 }
+
+.card p {
+  color: #727272;
+} 
