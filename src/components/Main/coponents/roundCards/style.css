@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.roundCards {
+    border-radius: 50%;
+    border: 1px solid #3EDEA9;
+    width: 75px;
+    height: 75px;   
+}
